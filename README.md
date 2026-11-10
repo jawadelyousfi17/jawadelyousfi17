@@ -1,1 +1,1 @@
-[![jawadelyousfi17 card](https://github-card.elite-1337.app/api/gh/jawadelyousfi17.svg?theme=phosphor&crt=1)](https://github.com/jawadelyousfi17)
+[![jawadelyousfi17 card](https://github-card.elite-1337.app/api/gh/jawadelyousfi17.svg?theme=phosphor&accent=mint&logo=0&crt=1&name=Fury&os=Debian&host=1337%20Khouribga&role=Software%20engineer&ide=VS%20Code&loc=Khouribga&stack=C%2C%20C%2B%2B%2C%20TYpeScript&spoken=Arabic%2CEnglish%2C%20French&hobbies=Robotics)](https://github-card.elite-1337.app/)
